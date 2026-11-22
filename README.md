@@ -55,7 +55,6 @@ I used Python, MySQL and Power BI to clean the dataset, analyze business perform
 - **Pandas :** Used for Data loading, cleaning and manipulation.
 - **SQLAlchemy :** Used to connect the python with MySQL and import the cleaned dataset into the database.
 
-s
 #### Work Performed
 
 - Loaded and explored the raw dataset.
