@@ -132,11 +132,11 @@ This project contains the files used for data cleaning, SQL analysis and Power B
 
 | Project file | Description |
 |--------------|-------------|
-| Data | Contains two files cleaned supply chain data used for the SQL analysis and Power BI and Raw data downloaded from Kaggle |
-| 01_data_cleaning.ipynb | Contains the Python code for the data exploration, cleaning, handling missing values, correcting data types and preparing dataset for the anaysis |
-| Data_analysis_project.sql | Contains SQL Queries used to analyze sales, profitability, delivery performance, shipping delays, discounts and customer behaviour |
-| Supply_Chain_Performance_and_Risk_Analysis.pbix | Contains three interactive dashboards covering supply chain overview, delivery performance and risk analysis, product and category performance |
-| images | Contains screenshot of three Power BI dashboards for viewing analysis without opening Power BI | 
+| [Cleaned Dataset](cleaned.zip) | Contains two files cleaned supply chain data used for the SQL analysis and Power BI and Raw data downloaded from Kaggle |
+| [Python Data Cleaning Notebook](01_data_cleaning.ipynb) | Contains the Python code for the data exploration, cleaning, handling missing values, correcting data types and preparing dataset for the anaysis |
+| [SQL Analysis](Data_analysis_project.sql)  | Contains SQL Queries used to analyze sales, profitability, delivery performance, shipping delays, discounts and customer behaviour |
+| [Power BI Dashboard](Supply_Chain_Performance_and_Risk_Analysis.pbix) | Contains three interactive dashboards covering supply chain overview, delivery performance and risk analysis, product and category performance |
+| [Dashboard Screenshots](images/) | Contains screenshot of three Power BI dashboards for viewing analysis without opening Power BI | 
 
 ## 6. Power BI Dashboards
 
